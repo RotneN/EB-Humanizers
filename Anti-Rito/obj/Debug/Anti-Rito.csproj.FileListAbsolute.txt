@@ -1,0 +1,13 @@
+E:\CoAnhNha\BadaoFinalProject\Anti-Rito\Anti-Rito\bin\Debug\Anti-Rito.exe.config
+E:\CoAnhNha\BadaoFinalProjectLocal\Anti-Rito\Anti-Rito\bin\Debug\Anti-Rito.exe.config
+C:\Users\Tyler\Desktop\EloBuddy\AddOns\Anti-Rito\bin\Debug\Anti-Rito.exe.config
+C:\Users\Tyler\Desktop\EloBuddy\AddOns\Anti-Rito\obj\Debug\Anti-Rito.csprojResolveAssemblyReference.cache
+C:\Users\Tyler\Desktop\EloBuddy\AddOns\Anti-Rito\bin\Debug\Anti-Rito.exe
+C:\Users\Tyler\Desktop\EloBuddy\AddOns\Anti-Rito\bin\Debug\Anti-Rito.pdb
+C:\Users\Tyler\Desktop\EloBuddy\AddOns\Anti-Rito\bin\Debug\EloBuddy.dll
+C:\Users\Tyler\Desktop\EloBuddy\AddOns\Anti-Rito\bin\Debug\EloBuddy.SDK.dll
+C:\Users\Tyler\Desktop\EloBuddy\AddOns\Anti-Rito\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Tyler\Desktop\EloBuddy\AddOns\Anti-Rito\bin\Debug\SharpDX.dll
+C:\Users\Tyler\Desktop\EloBuddy\AddOns\Anti-Rito\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tyler\Desktop\EloBuddy\AddOns\Anti-Rito\obj\Debug\Anti-Rito.exe
+C:\Users\Tyler\Desktop\EloBuddy\AddOns\Anti-Rito\obj\Debug\Anti-Rito.pdb

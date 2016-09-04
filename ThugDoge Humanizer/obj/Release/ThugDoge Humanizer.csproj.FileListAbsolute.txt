@@ -1,0 +1,11 @@
+E:\ThugDoge Humanizer\bin\Release\imAsharpHuman Pro.exe.config
+E:\ThugDoge Humanizer\bin\Release\imAsharpHuman Pro.exe
+E:\ThugDoge Humanizer\bin\Release\imAsharpHuman Pro.pdb
+E:\ThugDoge Humanizer\bin\Release\EloBuddy.dll
+E:\ThugDoge Humanizer\bin\Release\EloBuddy.SDK.dll
+E:\ThugDoge Humanizer\bin\Release\SharpDX.Direct3D9.dll
+E:\ThugDoge Humanizer\bin\Release\SharpDX.dll
+E:\ThugDoge Humanizer\bin\Release\Newtonsoft.Json.dll
+E:\ThugDoge Humanizer\obj\Release\imAsharpHuman Pro.exe
+E:\ThugDoge Humanizer\obj\Release\imAsharpHuman Pro.pdb
+E:\ThugDoge Humanizer\obj\Release\ThugDoge Humanizer.csprojResolveAssemblyReference.cache
